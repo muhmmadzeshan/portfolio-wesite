@@ -1,0 +1,160 @@
+# service page !
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  <link rel="icon" type="image/png" href="PORTFOLIO_LOGO-removebg-preview.png">
+  <link rel="stylesheet" href="portfolio.css">
+  <title>Portflio </title>
+</head>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
+  </style>
+<body>
+  <!-- ========== Start Section ========== -->
+<header class="section-navbar">
+    <div class="container">
+      <div class="nav-logo">
+        <a href="porfolio.html"><img src="PORTFOLIO_LOGO-removebg-preview.png" alt="Portflio LOGO" height="100px" width="100%"></a>
+      </div>
+      <div class="nav-anchor">
+        <ul>
+          <li> <a class="nav-links" href="porfolio.html">home</a></li>
+          <li> <a class="nav-links" href="contact.html">contact</a></li>
+          <li> <a class="nav-links" href="service.html">servises</a></li>
+          <li> <a class="nav-links" href="blog.html">blogs</a></li>
+          <li> <a class="nav-links" href="about.html">about</a></li>
+      </ul>
+      </div>
+    </div> 
+  </header>
+  <!-- ========== Start about  ========== -->
+   
+  <section class="section-coures">
+    <div class="container">
+      <h3 class="section-common-heading">About Alpha Tech</h3>
+      <p class="section-common-para">Guiding Your Learing Journing throught research.</p>
+    </div>
+    <div class="container grid">
+      <div class="course-div">
+        <div class="icon1">
+          <i class="fa-brands fa-html5 html"></i>
+        </div>
+        <h3 class="section-comman-tital">Html</h3>
+        <p class="section-common-para">Guiding Your Learing Journing throught research.</p>
+      </div>
+      <div class="course-div">
+      <div class="icon1">
+        <i class="fa-brands fa-css3 css html"></i>
+      </div>
+      <h3 class="section-comman-tital">CSS</h3>
+      <p class="section-common-para">Guiding Your Learing Journing throught research.</p>
+      </div>
+      <div class="course-div">
+      <div class="icon1">
+        <i class="fa-brands fa-java html java"></i>
+      </div>
+        <h3 class="section-comman-tital">JAVA</h3>
+        <p class="section-common-para">Guiding Your Learing Journing throught research.</p>
+      </div>
+      <div class="course-div">
+        <div class="icon1">
+        <i class="fa-brands fa-python html python"></i>
+        </div>
+        <h3 class="section-comman-tital">PYTHON</h3>
+        <p class="section-common-para">Guiding Your Learing Journing throught research.</p>
+      </div>
+      <div class="course-div">
+        <div class="icon1">
+         <i class="fa-brands fa-js html javascript"></i>
+        </div>
+        <h2 class="section-comman-tital">JAVASCRIPT</h2>
+        <p class="section-common-para">Guiding Your Learing Journing throught research.</p>
+      </div>
+      <div class="course-div">
+        <div class="icon1">
+         <i class="fa-brands fa-js html javascript"></i>
+        </div>
+        <h2 class="section-comman-tital">JAVASCRIPT</h2>
+        <p class="section-common-para">Guiding Your Learing Journing throught research.</p>
+      </div>
+      <div class="course-div">
+        <div class="icon1">
+         <i class="fa-brands fa-js html javascript"></i>
+        </div>
+        <h2 class="section-comman-tital">JAVASCRIPT</h2>
+        <p class="section-common-para">Guiding Your Learing Journing throught research.</p>
+      </div>
+      <div class="course-div">
+        <div class="icon1">
+         <i class="fa-brands fa-js html javascript"></i>
+        </div>
+        <h2 class="section-comman-tital">JAVASCRIPT</h2>
+        <p class="section-common-para">Guiding Your Learing Journing throught research .</p>
+      </div>
+    </div>  
+    </div>
+   </section>
+   
+  <!-- ========== End about  ========== -->
+
+  <!-- ========== Start footer ========== -->
+
+  <footer>
+    <div class="container grid">
+      <div class="footer-1-div ">
+        <div class="logo-brand">
+          <a href="porfolio.html" class="section-common-heading"> Alpha Tech</a>
+        </div>
+         <p class="section-common-para"> Lets learn and grow together</p>
+      </div>
+      <div class="social-footer-icon">
+        <a href="#"> <img src="facbook.png" alt="facbook"></a>
+        <a href="#"> <img src="tweeter.png" alt="facbook"></a>
+        <a href="#"> <img src="youtube.png" alt="facbook"></a>
+      </div>
+      <div class="social-footer-icon2">
+        <a href="https://www.youtube.com/watch?v=xAsWteYn1no&t=19119s" class="google_play" target="_blank"> <img src="google_play.png" alt="google_play"></a>
+        <a href="#"> <img src="apple_store.png" class="apple_store" alt="facbook"></a>
+      </div>
+      <div class="footer-2-div">
+       <p class="footer-subheading">Courses</p>
+        <ul>
+          <li><a href="porfolio.html" target="_blank" rel="noopener noreferrer">home</a></li>
+          <li><a href="porfolio.html" target="_blank" rel="noopener noreferrer">About</a></li>
+          <li><a href="porfolio.html" target="_blank" rel="noopener noreferrer">servise</a></li>
+          <li><a href="porfolio.html" target="_blank" rel="noopener noreferrer">contact</a></li>
+          <li><a href="porfolio.html" target="_blank" rel="noopener noreferrer">blog</a></li>
+        </ul>
+      </div>
+      <div class="footer-3-div">
+        <p class="footer-subheading">links</p>
+         <ul>
+           <li><a href="porfolio.html" target="_blank" rel="noopener noreferrer">home</a></li>
+           <li><a href="porfolio.html" target="_blank" rel="noopener noreferrer">About</a></li>
+           <li><a href="porfolio.html" target="_blank" rel="noopener noreferrer">servise</a></li>
+           <li><a href="porfolio.html" target="_blank" rel="noopener noreferrer">contact</a></li>
+           <li><a href="porfolio.html" target="_blank" rel="noopener noreferrer">blog</a></li>
+         </ul>
+       </div>
+       <div class="footer-4-div">
+        <p class="footer-subheading">Blog</p>
+         <ul>
+           <li><a href="porfolio.html" target="_blank" rel="noopener noreferrer">home</a></li>
+           <li><a href="porfolio.html" target="_blank" rel="noopener noreferrer">About</a></li>
+           <li><a href="porfolio.html" target="_blank" rel="noopener noreferrer">servise</a></li>
+           <li><a href="porfolio.html" target="_blank" rel="noopener noreferrer">contact</a></li>
+           <li><a href="porfolio.html" target="_blank" rel="noopener noreferrer">blog</a></li>
+         </ul>
+       </div>  
+    </div>
+  </footer>
+ ========== End footer ==========
+</body>
+</html>
+  
+  <!-- ========== End footer ========== -->
+  
+  
